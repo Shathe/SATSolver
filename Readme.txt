@@ -62,6 +62,6 @@ Fuentes de conocimiento en las cuales nos hemos basado para comprender qué y c�
 HornSAT: https://en.wikipedia.org/wiki/Horn-satisfiability
 https://en.wikipedia.org/wiki/2-satisfiability
 
-Se ha utlizado código ageno para la realización del 2SAT. Clases: Literal, Clause, TwoSAT, Kosaraju, DirectedGraph
+Se ha utlizado código ajeno para la realización del 2SAT. Clases: Literal, Clause, TwoSAT, Kosaraju, DirectedGraph
 Fuente: http://www.keithschwarz.com/interesting/code/2sat/
 Se ha modificado y adaptado a nuestras necesidades Literal, Clause
