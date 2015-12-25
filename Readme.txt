@@ -1,7 +1,7 @@
 Alonso Ruiz, Iñigo 	 665959@unizar.es 	 a665959
 Dieste Cortés, Alejandro 	541892@unizar.es 	a541892
 
-Repato del trabajo:
+Reparto del trabajo:
 
 Se ha intentando que ambos trabajasemos lo mismo, más o menos ha estado 40-60% ambos.
 Iñigo Alonso se ha encargado de la heurística y fuerza Bruta y también parte del HornSAT
