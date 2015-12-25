@@ -1,0 +1,8 @@
+Estas pruebas son las que genera el Test.java al ejecutarlo, la mayor parte del tiempo que emplea este programa es generando los datos de prueba.
+Como las pruebas aleatorias dan SAT satisfactibles en la mayoría de casos, y se utiliza una heurística que casi siempre acierta para el primer intento (no siempre como se ve en las pruebas generadas),
+no se ve bien cuanto tarda la ejecución de un SAT no satisfactible, así que también se han generado pruebas para SAT no satisfactibles, que son las mismas pero se le ha añadido un *(a)*(-a) al final a cada ecuación generada.
+
+En la carpeta Ficheros_Ecuaciones_SAT_Simples hay ficheros que se pueden ejecutar pasandoselo al programa por parametro
+(Cada fichero es un ejemplo simple variado, 2SAT, HornSAT,SAT, no satisfactible..)
+
+Las pruebas se han realizado sobre un portatil de gama media-baja.

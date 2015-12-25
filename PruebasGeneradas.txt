@@ -1,0 +1,3 @@
+Estas pruebas son las que genera el Test.java al ejecutarlo, la mayor parte del tiempo que emplea este programa es generando los datos de prueba.
+Como las pruebas aleatorias dan SAT satisfactibles en la mayoría de casos, y se utiliza una heurística que casi siempre acierta para el primer intento,
+no se ve bien cuanto tarda la ejecución de un SAT no satisfactible, así que de ejemplo se ha generado uno de 20.000 cláusulas y se le ha añadido un *(a)*(-a) al final.

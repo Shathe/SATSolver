@@ -1,0 +1,71 @@
+No se tiene en cuenta el tiempo de generación de pruebas ni de lectura de la ecuación, solo de resolución
+
+Ecuacion test de 2 numero de cláusulas, 1 numero de literales por clausulas y 1 Literales diferentes utilizados
+4 número de Cláusulas 2SAT
+2SAT es irresoluble
+se ha tardado en resolverlo (ms) 4.0
+
+Ecuacion test de 4 numero de cláusulas, 1 numero de literales por clausulas y 1 Literales diferentes utilizados
+6 número de Cláusulas 2SAT
+2SAT es irresoluble
+se ha tardado en resolverlo (ms) 1.0
+
+Ecuacion test de 8 numero de cláusulas, 1 numero de literales por clausulas y 1 Literales diferentes utilizados
+10 número de Cláusulas 2SAT
+2SAT es irresoluble
+se ha tardado en resolverlo (ms) 0.0
+
+Ecuacion test de 16 numero de cláusulas, 2 numero de literales por clausulas y 2 Literales diferentes utilizados
+18 número de Cláusulas 2SAT
+2SAT es irresoluble
+se ha tardado en resolverlo (ms) 1.0
+
+Ecuacion test de 32 numero de cláusulas, 2 numero de literales por clausulas y 2 Literales diferentes utilizados
+34 número de Cláusulas 2SAT
+2SAT es irresoluble
+se ha tardado en resolverlo (ms) 1.0
+
+Ecuacion test de 64 numero de cláusulas, 3 numero de literales por clausulas y 3 Literales diferentes utilizados
+SAT con 66 cláusulas y 4 Literales diferentes
+SAT es irresoluble
+se ha tardado en resolverlo (ms) 7.0
+
+Ecuacion test de 128 numero de cláusulas, 4 numero de literales por clausulas y 4 Literales diferentes utilizados
+SAT con 130 cláusulas y 5 Literales diferentes
+SAT es irresoluble
+se ha tardado en resolverlo (ms) 7.0
+
+Ecuacion test de 256 numero de cláusulas, 5 numero de literales por clausulas y 5 Literales diferentes utilizados
+SAT con 258 cláusulas y 6 Literales diferentes
+SAT es irresoluble
+se ha tardado en resolverlo (ms) 12.0
+
+Ecuacion test de 512 numero de cláusulas, 6 numero de literales por clausulas y 6 Literales diferentes utilizados
+SAT con 514 cláusulas y 7 Literales diferentes
+SAT es irresoluble
+se ha tardado en resolverlo (ms) 16.0
+
+Ecuacion test de 1024 numero de cláusulas, 7 numero de literales por clausulas y 7 Literales diferentes utilizados
+SAT con 1026 cláusulas y 8 Literales diferentes
+SAT es irresoluble
+se ha tardado en resolverlo (ms) 44.0
+
+Ecuacion test de 2048 numero de cláusulas, 9 numero de literales por clausulas y 9 Literales diferentes utilizados
+SAT con 2050 cláusulas y 10 Literales diferentes
+SAT es irresoluble
+se ha tardado en resolverlo (ms) 172.0
+
+Ecuacion test de 4096 numero de cláusulas, 12 numero de literales por clausulas y 12 Literales diferentes utilizados
+SAT con 4098 cláusulas y 13 Literales diferentes
+SAT es irresoluble
+se ha tardado en resolverlo (ms) 2664.0
+
+Ecuacion test de 8192 numero de cláusulas, 14 numero de literales por clausulas y 14 Literales diferentes utilizados
+SAT con 8194 cláusulas y 15 Literales diferentes
+SAT es irresoluble
+se ha tardado en resolverlo (ms) 23647.0
+
+Ecuacion test de 16384 numero de cláusulas, 18 numero de literales por clausulas y 18 Literales diferentes utilizados
+SAT con 16386 cláusulas y 19 Literales diferentes
+SAT es irresoluble
+se ha tardado en resolverlo (ms) 1270763.0
